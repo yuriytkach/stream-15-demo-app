@@ -24,6 +24,9 @@ Start application and send requests to:
 - http://localhost:8080/up/{name} - force set value under `name`
 - http://localhost:8080/clean/{name} - clean cache value for `name`
 
+## Some drawings from Youtube stream
+![drawing](cache.drawio.png)
+
 ## Useful links:
 
 ### Reference Documentation
